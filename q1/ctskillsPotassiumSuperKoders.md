@@ -1,5 +1,6 @@
-## Annex Submission
-- [CT Skills Sodium Team Annex](q1/ctskillsSodiumTeamName.md)
+Annex A Submission
+
+[CT Skills PotassiumSuperKoders Annex](q1/ctskillsPotassiumSuperKoders.md)
 
 Annex A 
 Computational Thinking Exercise: "Smart School Canteen Queue" 
