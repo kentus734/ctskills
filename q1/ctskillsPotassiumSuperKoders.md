@@ -1,5 +1,5 @@
-## Annex Submission
-- [CT Skills PotassiumSuperKoders Annex](q1/ctskillsPotassiumSuperKoders.md)
+Annex Submission
+[CT Skills PotassiumSuperKoders Annex](q1/ctskillsPotassiumSuperKoders.md)
 
 Annex A 
 Computational Thinking Exercise: "Smart School Canteen Queue" 
