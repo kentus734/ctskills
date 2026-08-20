@@ -55,4 +55,5 @@ stations each with a different function.
 Step 4: Draw a flowchart or write a pseudocode for the identified
 sub-problem 
 
-<img width="510" height="1392" alt="Flowchart(1)CS3" src="https://github.com/user-attachments/assets/d7c1e5e7-a809-4bbe-b4d0-32ccc72223e2" />
+Flowchart Link:
+https://drive.google.com/file/d/10z7TPTaaoBOQ_SrMm1tPM2kQzmxSH5IA/view?usp=drive_link
