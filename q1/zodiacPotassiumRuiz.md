@@ -1,5 +1,5 @@
 ## Zodiac Submission
-- [Chinese Zodiac Activity](zodiacSectionLN.md)
+- [Chinese Zodiac Activity](zodiacPotassiumRuiz.md)
 
 birth_year = int(input("Enter your year of birth: "))
 
