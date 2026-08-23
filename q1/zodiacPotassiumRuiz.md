@@ -1,3 +1,6 @@
+## Zodiac Submission
+- [Chinese Zodiac Activity](zodiacSectionLN.md)
+
 birth_year = int(input("Enter your year of birth: "))
 
 if birth_year < 1900:
