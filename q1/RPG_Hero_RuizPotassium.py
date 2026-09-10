@@ -6,11 +6,11 @@ class Hero:
     def take_damage(self, amount):
         self.hp -= amount
 
-scorpion = Hero("Scorpion", 100)
-subzero = Hero("Sub-Zero", 100)
+arthur = Hero("Scorpion", 100)
+morgana = Hero("Sub-Zero", 100)
 
-scorpion.take_damage(10)
+arthur.take_damage(10)
 
-print(scorpion.hp)     
-print(subzero.hp)      
+print(arthur.hp)     
+print(morgana.hp)      
 
