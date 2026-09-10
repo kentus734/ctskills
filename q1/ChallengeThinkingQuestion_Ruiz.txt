@@ -1,0 +1,1 @@
+If we had 100 heroes, we would only need one class box which is "Hero" because they would just be objects to the classes and would not need any more unnecessary classes for each object since one class can already handle multiple objects. 
